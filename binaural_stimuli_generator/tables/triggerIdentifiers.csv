@@ -1,0 +1,16 @@
+Trigger time?,EEG Trigger length,OSC number,Tag,Meaning
+Cross change,50,1,cross,Cross changed colour
+Button press,100,2,button,Button press
+Scene onset,150,3,nochange,Stim start and No change
+Scene onset,200,4,change,Stim start and Change
+Target onset,250,5,front,Front location
+Target onset,300,6,top,Above location
+Target onset,350,7,back,Behind location
+Target onset,400,8,left,Left location
+Target onset,450,9,right,Right location
+No Target onset,500,10,nofront,Front location
+No Target onset,550,11,notop,Above location
+No Target onset,600,12,noback,Behind location
+No Target onset,650,13,noleft,Left location
+No Target onset,700,14,noright,Right location
+Scene offset,750,15,end,End of stimulus

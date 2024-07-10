@@ -1,0 +1,21 @@
+hrtf_dir: 'C:\Users\Kat\Box\2023_HRTF-Kathi\Data\'
+hrtf_type: '*\*_Windowed_NoITD_48kHz.sofa'
+test_type: 'binaural'
+sample_rate: 48000
+repeats: 30
+target_onset_min_s: 4
+target_onset_max_s: 4
+sources: 
+  - 6
+target_length_s: 3
+mono: 
+  - 0
+target_speakers: 
+  - front
+  - back
+  - left
+  - right
+  - top
+any_target_file: 0
+change_appear: 1
+silent_filenumber: 17
