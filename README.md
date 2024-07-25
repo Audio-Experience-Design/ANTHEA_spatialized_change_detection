@@ -7,4 +7,7 @@ Here you can find the repository linked to our paper from the ANTHEA project:
 This repository contains:
 1. Our stimuli and code to generate binaural version of the spatialised stimuli in the folder named 'binaural_stimuli_generator'
 2. The behavioural data set in the folder 'behavioural_data' split by experiment
-3. The processed EEG data in the folder 'EEG_data'
+3. The processed EEG data in the folder 'eeg_data' split by subject
+
+
+
